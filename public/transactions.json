@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "date": "2025-03-01",
+    "type": "income",
+    "amount": 15000,
+    "description": "Оплата за проект"
+  },
+  {
+    "id": 2,
+    "date": "2025-03-02",
+    "type": "expense",
+    "amount": 5000,
+    "description": "Оплата подрядчику"
+  },
+  {
+    "id": 3,
+    "date": "2025-03-05",
+    "type": "income",
+    "amount": 20000,
+    "description": "Бонус"
+  },
+  {
+    "id": 4,
+    "date": "2025-03-07",
+    "type": "expense",
+    "amount": 7000,
+    "description": "Закупка материалов"
+  },
+  {
+    "id": 5,
+    "date": "2025-03-08",
+    "type": "income",
+    "amount": 18000,
+    "description": "Фриланс-проект"
+  },
+  {
+    "id": 6,
+    "date": "2025-03-09",
+    "type": "expense",
+    "amount": 6000,
+    "description": "Аренда офиса"
+  },
+  {
+    "id": 7,
+    "date": "2025-03-10",
+    "type": "income",
+    "amount": 22000,
+    "description": "Консультационные услуги"
+  },
+  {
+    "id": 8,
+    "date": "2025-03-11",
+    "type": "expense",
+    "amount": 4000,
+    "description": "Покупка софта"
+  },
+  {
+    "id": 9,
+    "date": "2025-03-12",
+    "type": "income",
+    "amount": 16000,
+    "description": "Оплата за разработку"
+  },
+  {
+    "id": 10,
+    "date": "2025-03-13",
+    "type": "expense",
+    "amount": 5500,
+    "description": "Реклама"
+  },
+  {
+    "id": 11,
+    "date": "2025-03-14",
+    "type": "income",
+    "amount": 19000,
+    "description": "Аванс по контракту"
+  },
+  {
+    "id": 12,
+    "date": "2025-03-15",
+    "type": "expense",
+    "amount": 4500,
+    "description": "Техническое обслуживание"
+  },
+  {
+    "id": 13,
+    "date": "2025-03-16",
+    "type": "income",
+    "amount": 21000,
+    "description": "Проектная работа"
+  },
+  {
+    "id": 14,
+    "date": "2025-03-17",
+    "type": "expense",
+    "amount": 6500,
+    "description": "Командировочные расходы"
+  },
+  {
+    "id": 15,
+    "date": "2025-03-18",
+    "type": "income",
+    "amount": 23000,
+    "description": "Оплата по договору"
+  },
+  {
+    "id": 16,
+    "date": "2025-03-19",
+    "type": "expense",
+    "amount": 4800,
+    "description": "Покупка оборудования"
+  },
+  {
+    "id": 17,
+    "date": "2025-03-20",
+    "type": "income",
+    "amount": 25000,
+    "description": "Премия"
+  },
+  {
+    "id": 18,
+    "date": "2025-03-21",
+    "type": "expense",
+    "amount": 5200,
+    "description": "Оплата коммунальных услуг"
+  },
+  {
+    "id": 19,
+    "date": "2025-03-22",
+    "type": "income",
+    "amount": 24000,
+    "description": "Дополнительный доход"
+  },
+  {
+    "id": 20,
+    "date": "2025-03-23",
+    "type": "expense",
+    "amount": 7000,
+    "description": "Ремонт"
+  },
+  {
+    "id": 21,
+    "date": "2025-03-24",
+    "type": "income",
+    "amount": 26000,
+    "description": "Заключительный платеж"
+  }
+]
